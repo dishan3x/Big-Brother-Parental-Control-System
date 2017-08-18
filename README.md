@@ -1,4 +1,4 @@
-# Bigbrother_parental_control_System
+# Bigbrother Parental Control System
 
 Scope: Implement two-way communication between two STM32F407VG Discovery Boards
 via a Raspberry Pi that hosted a MQTT server.
